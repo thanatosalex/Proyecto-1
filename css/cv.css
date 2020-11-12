@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    
+}
+
+body {
+    margin: 0;
+    padding: 5px 10%;
+    background-color: #0C1323;
+    font-family: 'Itim', cursive;
+    background-size: cover;
+    
+}
+
+
+p {
+    color: white;
+}
+.color {
+    background-color: gray; filter:alpha(opacity=60); opacity:.6;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid white;
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px; 
+    border-radius: 2px;
+    font-size: 14px;
+    padding: 30px;
+    margin: 25px;
+}
+
+
+
+
